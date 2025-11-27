@@ -15,7 +15,12 @@ A collaborative dental booking and appointment system built with Java GUI and Su
 - **Version Control**: GitHub
 
 ## 👥 Team Roles
-- [Add teammates here]
+- Enriquez, Micheal Tim Joseph  |  Developer
+- Nopuente, Fvienj              |  Developer
+- Haclad, Dawsons               |  Developer
+- Esclamado, Khrieztine         |  UI/UX Designer
+- Empleo, Monica                |  UI/UX Designer
+- Sabuero, Zyra                 |  UI/UX Designer
 
 ## 📂 Folder Structure
 See `/docs` for workflow diagrams and `/src` for Java code.
