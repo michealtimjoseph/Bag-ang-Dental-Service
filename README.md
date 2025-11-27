@@ -22,13 +22,11 @@ A collaborative dental booking and appointment system built with Java GUI and Su
 - Empleo, Monica                |  UI/UX Designer
 - Sabuero, Zyra                 |  UI/UX Designer
 
-## 📂 Folder Structure
-See `/docs` for workflow diagrams and `/src` for Java code.
+## 📂 File Structure
+See `Branch : CodeDental` for the src code for Java.
 
 ## 🚀 Getting Started
-1. Clone the repo
-2. Set up Supabase project
-3. Run the Java GUI locally
+1. Set up Supabase project
 
 ## 📌 Roadmap
 - [ ] Finalize GUI layout
