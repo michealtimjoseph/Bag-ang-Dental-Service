@@ -95,9 +95,9 @@ class LoginPage extends JFrame {
 
         // Logo
         ImageIcon logoIcon = new ImageIcon("assets/Dental_Logo.png");
-        Image scaledLogo = logoIcon.getImage().getScaledInstance(200, 150, Image.SCALE_SMOOTH);
+        Image scaledLogo = logoIcon.getImage().getScaledInstance(250, 200, Image.SCALE_SMOOTH);
         JLabel logoLabel = new JLabel(new ImageIcon(scaledLogo));
-        logoLabel.setBounds(320, 20, 200, 150); // adjusted for larger frame
+        logoLabel.setBounds(295, -10, 250, 200); // adjusted for larger frame
         add(logoLabel);
 
         // Title
