@@ -1,6 +1,6 @@
 # Bag-ang Dental Services 🦷
 
-A collaborative dental booking and appointment system built with Java GUI and Supabase backend.
+A collaborative dental booking and appointment system built with Java GUI and PostgreSQL backend.
 
 ## 💡 Features
 - Patient registration and login
@@ -11,11 +11,16 @@ A collaborative dental booking and appointment system built with Java GUI and Su
 
 ## 🛠️ Tech Stack
 - **Frontend**: Java Swing GUI
-- **Backend**: Supabase (PostgreSQL, Auth)
+- **Backend**: PostgreSQL
 - **Version Control**: GitHub
 
 ## 👥 Team Roles
-- [Add teammates here]
+- Enriquez
+- Nopuente
+- Esclamado
+- Sabuero
+- Haclad
+- Empleo
 
 ## 📂 Folder Structure
 See `/docs` for workflow diagrams and `/src` for Java code.
